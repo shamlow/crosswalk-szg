@@ -1,7 +1,7 @@
 {
   "mappings": [
     "/:/",
-    "/content/aem-edge-delivery/metadata.json:/metadata.json",
-    "/content/aem-edge-delivery/redirects.json:/redirects.json"
+    "/content/sub-zero-wolf-cove-edge-delivery/metadata.json:/metadata.json",
+    "/content/sub-zero-wolf-cove-edge-delivery/redirects.json:/redirects.json"
   ]
 }
